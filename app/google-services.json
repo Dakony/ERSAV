@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117717294691",
+    "firebase_url": "https://ersav-c4888.firebaseio.com",
+    "project_id": "ersav-c4888",
+    "storage_bucket": "ersav-c4888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117717294691:android:e51c90c7afa66887",
+        "android_client_info": {
+          "package_name": "com.example.android.ersav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117717294691-81f67krh120l7qv7lj4bgf8bv887pbd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwzEDqiMRp9Js2owE2Qx9G0nm1onn1z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117717294691-81f67krh120l7qv7lj4bgf8bv887pbd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
